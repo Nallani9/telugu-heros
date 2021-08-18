@@ -1,0 +1,1 @@
+{"year":"2020","movieName":"PUSHPA","actorName":"PUSHPA RAJ","releaseDate":null,"movieTalk":null}
